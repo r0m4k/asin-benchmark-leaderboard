@@ -3,9 +3,8 @@ agentbeats_id = "019c0003-1c24-7320-8aa7-61e45ddc24fa"
 env = { GOOGLE_MAPS_API_KEY = "${GOOGLE_MAPS_API_KEY}" }
 
 [[participants]]
-# Paste your REGISTERED purple agent id here (baseline)
-agentbeats_id = "<PURPLE_AGENT_ID>"
-name = "agent"
+agentbeats_id = ""
+name = "navigator"
 env = { }
 
 [config]
