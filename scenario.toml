@@ -3,9 +3,9 @@ agentbeats_id = "019c0003-1c24-7320-8aa7-61e45ddc24fa"
 env = { GOOGLE_MAPS_API_KEY = "${GOOGLE_MAPS_API_KEY}" }
 
 [[participants]]
-agentbeats_id = "019c0474-6834-7832-a0a2-ba025975cbc1"
+agentbeats_id = ""
 name = "navigator"
-env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
+env = {}
 
 [config]
 domain = "spatial_navigation"
